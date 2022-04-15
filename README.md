@@ -1,0 +1,2 @@
+# JS-CRUD-ASSINCRONO
+ALURA - Curso de JS na web: CRUD com JavaScript assíncrono - Felipe Nascimento - ORACLE ONE NEXT EDUCATION 2022&lt;br>&lt;br>Faça esse curso de JavaScript e: Crie um CRUD utilizando o método fetch e os verbos HTTP Aprenda a consumir dados de uma API e exibir no seu front-end Entenda como utilizar o método fetch para consumir dados de uma API Manipule os verbos HTTP através do método fetch Aprenda como funcionam as promises no JavaScript
